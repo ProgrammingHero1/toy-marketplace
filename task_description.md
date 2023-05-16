@@ -2,7 +2,28 @@
 
 ## **Theme: Toy Management System**
 
-A company is seeking a web developer who can create a full-stack website to build a website for their Toy Management system. You are required to focus on a specific toy category, such as Toy Cars(sports, racing, regular, etc. toy car), Action figure toys(marvel, avengers, star wars, transformers, etc.), animal toys(teddy bear, horse, dinosaur, dogs, cat, unicorn, cows, etc.), sports toys(miniature or plastic version of sports accessories), toy robots, dolls(baby dolls, barbie, american girl, etc), disney dolls (disney princes, frozen dolls, animation characters, etc.), toy makeup, video game toys, Building and Construction Toys, Educational and Learning Toys(science kits, math learning toys, engineering kits, engineering tools), cooking Toys, Arts and Crafts Toys, Musical Toys(miniature musical instruments), Board Games and Puzzles, Electronic Toys, lego sets(lego city, lego star wars, lego architecture, lego disney), sand castle building toys, etc. Thus, if you select disney dolls toys, your website will only showcase toys related to that particular category.
+A company is seeking a web developer who can create a full-stack website to build a website for their Toy Management system. You are required to focus on a specific toy category, such as-
+
+    - Toy Cars(sports, racing, regular, etc. toy car), 
+    - Action figure toys(marvel, avengers, star wars, transformers, etc.), 
+    - Animal toys(teddy bear, horse, dinosaur, dogs, cat, unicorn, cows, etc.), 
+    - Sports toys(miniature or plastic version of sports accessories), 
+    - Toy robots, 
+    - Dolls(baby dolls, barbie, american girl, etc), 
+    - Disney dolls (disney princes, frozen dolls, animation characters, etc.), 
+    - Girls makeup toy, 
+    - video game toys, 
+    - Building and Construction Toys, 
+    - Educational and Learning Toys(science kits, math learning toys, engineering kits, engineering tools), 
+    - Cooking Toys, 
+    - Arts and Crafts Toys, 
+    - Musical Toys(miniature musical instruments), 
+    - Board Games and Puzzles, 
+    - Electronic Toys, 
+    - Lego sets(lego city, lego star wars, lego architecture, lego disney), 
+    - Sand castle building toys, etc. 
+    
+    Thus, if you select disney dolls toys, your website will only showcase toys related to that particular category.
 
 Make sure your website design is unique. Visit ThemeForest, Dribble, google, etc., to get some ideas.
 
