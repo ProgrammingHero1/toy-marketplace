@@ -1,16 +1,16 @@
-# **Toy Management System**
+# **Toy Marketplace**
 
-A company is seeking a web developer who can create a simple full-stack Toy Management website. You are required to focus on a specific toy category, such as-
+A company is seeking a web developer who can create a simple full-stack Toy Marketplace website. You are required to focus on a specific toy category, such as-
 
-    - Toy Cars(sports, racing, regular, etc. toy car), 
-    - Action figure toys(marvel, avengers, star wars, transformers, etc.), 
-    - Animal toys(teddy bear, horse, dinosaur, dogs, cat, unicorn, cows, etc.), 
-    - Sports toys(miniature or plastic version of sports accessories), 
-    - Toy robots, 
-    - Dolls(baby dolls, barbie, American girl, etc), 
-    - Disney dolls (Disney princes, frozen dolls, animation characters, etc.), 
+    - Toy Cars(sports car, truck, regular car, mini fire truck, mini police car, etc.)
+    - Action figure toys(marvel, avengers, star wars, transformers, etc.)
+    - Animal toys(teddy bear, horse, dinosaur, dogs, cat, unicorn, cows, etc.)
+    - Sports toys(miniature or plastic version of sports accessories) 
+    - Toy robots
+    - Dolls(baby dolls, barbie, American girl, etc)
+    - Disney dolls (Disney princes, frozen dolls, animation characters, donalkd duck, etc.), 
     - Girls' makeup toy, 
-    - video game toys, 
+    - Video game toys, 
     - Building and Construction Toys, 
     - Educational and Learning Toys(science kits, math learning toys, engineering kits, engineering tools), 
     - Cooking Toys, 
@@ -20,8 +20,9 @@ A company is seeking a web developer who can create a simple full-stack Toy Mana
     - Electronic Toys, 
     - Lego sets(lego city, lego star wars, lego architecture, lego cars), 
     - Sand castle building toys, etc. 
+    - Any other types of toys
     
- Thus, if you select Disney dolls toys, your website will only showcase toys related to that particular category.
+ If you select Disney dolls toys, your website will only showcase toys related to that particular types. Do not mix different types of toys in your website.
 
 Make sure your website design is unique. Visit ThemeForest, Dribble, google, etc., to get some ideas.
 
@@ -33,9 +34,9 @@ You can explore component libraries other than DaisyUI. Remember, a unique proje
 
 ## **Main Requirements**
 1. Focus on making the website visually appealing. Ensure that
-    - color contrast is pleasing to the eye
-    - the website does not have a `gobindo design`
-    - the website has proper alignment and space
+    - Color contrast is pleasing to the eye
+    - The website does not have a `gobindo design`
+    - The website has proper alignment and space
     - If needed, customize the design of any component you are taking from any component library. (For example, you are using daisy ui & have taken a card component from Daisy, if needed, customize the styling of the card to make it reasonable rather than just copy & paste it.)
     <br/>
     <br/>
@@ -47,6 +48,7 @@ You can explore component libraries other than DaisyUI. Remember, a unique proje
     - Travel guru 
     - Volunteer network
     - Job Portal Website, Any conceptual session projects, or projects showed in our course.
+    - Any of your previous assignments
    
     <br/>
 
@@ -58,7 +60,7 @@ You can explore component libraries other than DaisyUI. Remember, a unique proje
 
 <br/>
 
-3. Your website should have a navbar with the **Website logo, Website name, Home, Blog, My Toys, All Toys, Add A Toy** and **User profile picture**. 
+3. Your website should have a navbar with the **Website logo, Website name, Home, All Toys, My Toys, Add A Toy, Blogs,** and **User profile picture**. 
     > **Note:** The **User profile picture, Add A Toy** and **My Toys** on the navbar are conditional based on login. If the user is logged in, the navbar will show the profile picture; otherwise, it will show the **Login button**. If the username is available, the user's name will be visible when the mouse hovers over the profile picture.
 
 <br/>
@@ -93,10 +95,10 @@ You can explore component libraries other than DaisyUI. Remember, a unique proje
     - **Shop by category**- Implement a tab system for **Shop by category** section. Explore [React-tabs](https://www.npmjs.com/package/react-tabs), or you can implement this using custom CSS. There will be 3 tabs, each containing sub-categories of the category you have chosen. 
     <br/>
 
-    > For example, if the website is based on **Educational and learning toys**, the sub-categories for the **3** tabs can be **Math Toys, Language Toys, engineering toys, and Science Toys, etc.**. You need at least 3 categories.
+    > For example, if the website is based on **Educational and learning toys**, the sub-categories for the **3** tabs can be **Math Toys, Language Toys, engineering toys, and Science Toys, etc.**. You need at least 3 sub-categories.
     <br/>
 
-    > Each tab will have minimum 2 data, and each data will have the following information:
+    > Each tab will have minimum 2 toys, and each toy will have the following information:
     - Picture, 
     - Name,
     - Price, 
@@ -112,12 +114,12 @@ You can explore component libraries other than DaisyUI. Remember, a unique proje
 
 <br/>
 
-6. **` Blog page:`** Create a Blog where you will have to answer the following questions:
+6. **` Blogs`** page: Create a Blog where you will have to answer the following questions:
     
-    - What is an access token and refresh token work, and where should we store them on the client-side?
+    - What is an access token and refresh token? How do they work and where should we store them on the client-side?
     - Compare SQL and NoSQL databases?
-    - What is express js? What is the alternative to express JS (google it)? 
-    - What is react `Suspense`? When will you use it?
+    - What is express js? What is Nest JS (google it)? 
+    - What is MongoDB aggregate and how does it work (google it)?
     
     <br/>
 
@@ -125,14 +127,17 @@ You can explore component libraries other than DaisyUI. Remember, a unique proje
 
 7. **` All Toys`** page: Create an All Toys page where you will see the toys all the users have added in the tabular form. Each row of the All Toys table/list will have the following information:
 
-    -   Name of the person who posted the toy
-    -   Email of the person who posted the toy
-    -   Toy name
+    -   Seller: (if available) show the name of the person who posted the toy
+    -   Toy Name
     -   Sub-category
+    -   Price
+    -   Available Quantity
     -   View Details button
     <br/>
 
-    > Above the table, implement a search system based on the **Toy name.**
+    > Show 20 results by default by using `limit`
+    > 
+    > Implement a search system on this page, based on the **Toy name.**
     <br/>
 
     Without logging in, if a user clicks on the **View Details** button, they will be redirected to the Login Page. Make sure to take the user to the Details Page after the user successfully logs in.
@@ -141,7 +146,9 @@ You can explore component libraries other than DaisyUI. Remember, a unique proje
 
 8. **`Single toy details route will be a private route:`**
     
-    > After clicking on the **View Details** button, he/ she will be redirected to the **Toys Details** route **( /toy/:id )** containing the information **( picture, name, price, rating and detail description)**
+    > After clicking on the **View Details** button, he/ she will be redirected to the **Toys Details** route **( /toy/:id )** containing the information **( picture, toy name, seller name, seller email, price, rating, available quantity, and detail description)**
+    > 
+    > (optional) If possible, display the view details in a modal
 
 <br/>
 
@@ -151,9 +158,12 @@ You can explore component libraries other than DaisyUI. Remember, a unique proje
     > Create an **Add A Toy** page where there will be a form having the following fields:
     - Picture URL of the toy,
     - Name,
+    - seller name (if available from the logged in user)
+    - seller email (info from the logged in user)
     - Sub-category ( For example: if the website is based on Educational and learning toys, the sub-categories can be Math Toys, Language Toys, and Science Toys.)
     - Price, 
     - Rating, 
+    - Available quantity
     - Detail description
 
 <br/>
@@ -161,7 +171,7 @@ You can explore component libraries other than DaisyUI. Remember, a unique proje
 10. **`My Toys page will be private routes:`** If a user logs in, they will see the My Toys page, which it will show all the toys information they have added from the Add A Toy page in a tabular form. Each row will have an update and delete button. 
     <br/>
 
-    - **Update Action** - If they click the `update` button, they can update the Toy information (Picture, Name, Sub-category, Price, Rating, Detail description) <br/><br/>
+    - **Update Action** - If they click the `update` button, they can update the Toy information (Price, available quantity, Detail description) <br/><br/>
         > **Note:** you can show the update form in a modal or another route.
     
     <br/>
@@ -172,7 +182,7 @@ You can explore component libraries other than DaisyUI. Remember, a unique proje
         > **Note:** If a user logs in they will only see the toys they have added. The user cannot see the toys other users added.
     <br/>
 
-    **Bonus task: See the bonus point 4**
+ 
 
 <br/>
 
@@ -217,9 +227,7 @@ You can explore component libraries other than DaisyUI. Remember, a unique proje
 
 6. Give your website name. The website title will be changed according to the route you are clicking. Suppose your website name is PHero. Then, on the **‘about’** route, your website title will be **‘PHero | About us’**.
 
-7. add a spinner to my toys page. 
-
-8. Make the component name, folder structure, and route name meaningful. If needed, add comments. 
+7.  Make the component name, folder structure, and route name meaningful. If needed, add comments. 
 
 <br/>
 
