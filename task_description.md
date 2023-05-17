@@ -8,7 +8,7 @@ A company is seeking a web developer who can create a simple full-stack Toy Mark
     - Sports toys(miniature or plastic version of sports accessories) 
     - Toy robots
     - Dolls(baby dolls, barbie, American girl, etc)
-    - Disney dolls (Disney princes, frozen dolls, animation characters, donalkd duck, etc.), 
+    - Disney dolls (Disney princes, frozen dolls, animation characters, donald duck, etc.), 
     - Girls' makeup toy, 
     - Video game toys, 
     - Building and Construction Toys, 
@@ -107,7 +107,7 @@ You can explore component libraries other than DaisyUI. Remember, a unique proje
     
     <br/>
             
-    > **Note:** When a user is not logged in and if he/ she clicks on the View Details button, notify the user with a message **“You have to log in first to add this item to your list”** by using a toast/ notification/ anything. Also, redirect him/ her to the login page. Without a login, you can not visit the single toy details page.
+    > **Note:** When a user is not logged in and if he/ she clicks on the View Details button, notify the user with a message **“You have to log in first to view details”** by using a toast/ notification/ anything. Also, redirect him/ her to the login page. Without a login, you can not visit the single toy details page.
 
     - **Extra Section:** Add two relevant sections. Try to make them attractive.
 
@@ -213,7 +213,7 @@ You can explore component libraries other than DaisyUI. Remember, a unique proje
 
 2. **Reload:** If you reload the protected/private routes (after login), this page will not redirect the user to the login page. Instead, it will keep the logged-in user on the protected route. 
 
-2. Make your website mobile & desktop responsive (tablet responsive is optional)
+2. Make Home page of your website mobile & desktop responsive (tablet responsive is optional)
 
 <br/>
 
