@@ -1,17 +1,15 @@
-# **Task description**
+# **Toy Management System**
 
-## **Theme: Toy Management System**
-
-A company is seeking a web developer who can create a full-stack website to build a website for their Toy Management system. You are required to focus on a specific toy category, such as-
+A company is seeking a web developer who can create a simple full-stack Toy Management website. You are required to focus on a specific toy category, such as-
 
     - Toy Cars(sports, racing, regular, etc. toy car), 
     - Action figure toys(marvel, avengers, star wars, transformers, etc.), 
     - Animal toys(teddy bear, horse, dinosaur, dogs, cat, unicorn, cows, etc.), 
     - Sports toys(miniature or plastic version of sports accessories), 
     - Toy robots, 
-    - Dolls(baby dolls, barbie, american girl, etc), 
-    - Disney dolls (disney princes, frozen dolls, animation characters, etc.), 
-    - Girls makeup toy, 
+    - Dolls(baby dolls, barbie, American girl, etc), 
+    - Disney dolls (Disney princes, frozen dolls, animation characters, etc.), 
+    - Girls' makeup toy, 
     - video game toys, 
     - Building and Construction Toys, 
     - Educational and Learning Toys(science kits, math learning toys, engineering kits, engineering tools), 
@@ -20,15 +18,17 @@ A company is seeking a web developer who can create a full-stack website to buil
     - Musical Toys(miniature musical instruments), 
     - Board Games and Puzzles, 
     - Electronic Toys, 
-    - Lego sets(lego city, lego star wars, lego architecture, lego disney), 
+    - Lego sets(lego city, lego star wars, lego architecture, lego cars), 
     - Sand castle building toys, etc. 
     
-    Thus, if you select disney dolls toys, your website will only showcase toys related to that particular category.
+ Thus, if you select Disney dolls toys, your website will only showcase toys related to that particular category.
 
 Make sure your website design is unique. Visit ThemeForest, Dribble, google, etc., to get some ideas.
 
-If possible, you can explore component libraries other than DaisyUI. Remember, a unique project will add more value to your portfolio.
+You can explore component libraries other than DaisyUI. Remember, a unique project will add more value to your portfolio.
 <hr/>
+<br/>
+🚩: 0 [ If we have any update we will mention it here ] 
 <br/>
 
 ## **Main Requirements**
@@ -36,17 +36,17 @@ If possible, you can explore component libraries other than DaisyUI. Remember, a
     - color contrast is pleasing to the eye
     - the website does not have a `gobindo design`
     - the website has proper alignment and space
-    - If needed, customize the design of any component you are taking from any component library. (For example, you are using daisy ui & has taken card component from daisy, if needed customize the styling the card to make it reasonable, rather just copy & paste it.)
+    - If needed, customize the design of any component you are taking from any component library. (For example, you are using daisy ui & have taken a card component from Daisy, if needed, customize the styling of the card to make it reasonable rather than just copy & paste it.)
     <br/>
     <br/>
     
-    > **Note:** Your website can not be related to your previous assignments layout/ design or any practice project shown in the course modules or our conceptual sessions. Ex: You can't copy any design or similar functionality/ layout of
+    > **Note:** Your website can not be related to your previous assignments' layout/ design or any practice project shown in the course modules or our conceptual sessions. Ex: You can't copy any design or similar functionality/ layout of
     - Dragon news
     - Espresso Emporium
     - Car Doctor
     - Travel guru 
     - Volunteer network
-    - Job Portal Website or Any conceptual session projects, or any project showed in our course.
+    - Job Portal Website, Any conceptual session projects, or projects showed in our course.
    
     <br/>
 
@@ -54,7 +54,7 @@ If possible, you can explore component libraries other than DaisyUI. Remember, a
 
 <br/>
 
-2. Make sure to keep the navbar and footer on all the pages **except on the 404 page**. Create a reasonable and meaningful footer. <b>(including website logo, name, copyright, some contact information, social media links, address, etc.)</b>
+2. Make sure to keep the navbar and footer on all the pages **except on the 404-page**. Create a reasonable and meaningful footer. <b>(including website logo, name, copyright, some contact information, social media links, address, etc.)</b>
 
 <br/>
 
@@ -63,7 +63,7 @@ If possible, you can explore component libraries other than DaisyUI. Remember, a
 
 <br/>
 
-4. **`Login & Registration systems:`** On the Registration page and Login page, display relevant error messages when necessary.
+4. **`Login & Registration systems:`** On the Registration and Login pages, display relevant error messages when necessary.
 
     > **Login Page:** When a user clicks on the login button, they will be redirected to the login page having the following:
 
@@ -86,17 +86,17 @@ If possible, you can explore component libraries other than DaisyUI. Remember, a
 
 <br/>
 
-5. **`Home page:`**
+5. **` Home page:`**
     - **Banner section** -A slider/banner/ a meaningful section. 
 
     - **Gallery Section** - Show relevant pictures. Try to make it attractive.
-    - **Shop by category**- Implement a tab system for **Shop by category** section. Explore [React-tabs](https://www.npmjs.com/package/react-tabs) or you can implement this using custom css. There will be 3 tabs each containing sub-categories of the category you have chosen. 
+    - **Shop by category**- Implement a tab system for **Shop by category** section. Explore [React-tabs](https://www.npmjs.com/package/react-tabs), or you can implement this using custom CSS. There will be 3 tabs, each containing sub-categories of the category you have chosen. 
     <br/>
 
-    > For example, if the website is based on **Educational and learning toys**, the sub-categories for the **3** tabs can be **Math Toys, Language Toys, engineering toys, and Science Toys, etc.**. you need at least 3 categories.
+    > For example, if the website is based on **Educational and learning toys**, the sub-categories for the **3** tabs can be **Math Toys, Language Toys, engineering toys, and Science Toys, etc.**. You need at least 3 categories.
     <br/>
 
-    > Each tab will have minimum 2 data and each data will have the following information:
+    > Each tab will have minimum 2 data, and each data will have the following information:
     - Picture, 
     - Name,
     - Price, 
@@ -105,25 +105,25 @@ If possible, you can explore component libraries other than DaisyUI. Remember, a
     
     <br/>
             
-    > **Note:** When a user is not logged in and if he/ she clicks on the View Details button, notify the user with a message **“You have to log in first to add this item to your list”** by using a toast/ notification/ anything. Also, redirect him/ her to the login page. Without login, you can not visit the single toy details page.
+    > **Note:** When a user is not logged in and if he/ she clicks on the View Details button, notify the user with a message **“You have to log in first to add this item to your list”** by using a toast/ notification/ anything. Also, redirect him/ her to the login page. Without a login, you can not visit the single toy details page.
 
     - **Extra Section:** Add two relevant sections. Try to make them attractive.
 
 
 <br/>
 
-6. **`Blog page:`** Create a Blog where you will have to answer the following questions:
+6. **` Blog page:`** Create a Blog where you will have to answer the following questions:
     
-    - What is access token and refresh token works and where should we store them in the client side?
-    - Compare between SQL and NoSQL databases?
-    - what is express js? What are the alternative to expressJS? 
-    - what is react `Suspense`? when will you use it?
+    - What is an access token and refresh token work, and where should we store them on the client-side?
+    - Compare SQL and NoSQL databases?
+    - What is express js? What is the alternative to express JS (google it)? 
+    - What is react `Suspense`? When will you use it?
     
     <br/>
 
 <br/>
 
-7. **`All Toys`** page: Create an All Toys page where you will see the toys all the users have added in the tabular form. Each row of the All Toys table/list will have the following information:
+7. **` All Toys`** page: Create an All Toys page where you will see the toys all the users have added in the tabular form. Each row of the All Toys table/list will have the following information:
 
     -   Name of the person who posted the toy
     -   Email of the person who posted the toy
@@ -135,7 +135,7 @@ If possible, you can explore component libraries other than DaisyUI. Remember, a
     > Above the table, implement a search system based on the **Toy name.**
     <br/>
 
-    Without logging in, if a user clicks on the **View Details** button, he/she will be redirected to the Login Page. Make sure to take the user to the Details Page, after the user successfully logs in.
+    Without logging in, if a user clicks on the **View Details** button, they will be redirected to the Login Page. Make sure to take the user to the Details Page after the user successfully logs in.
 
 <br/>
 
@@ -145,31 +145,31 @@ If possible, you can explore component libraries other than DaisyUI. Remember, a
 
 <br/>
 
-9. **`Add A Toy page will be a private route:`** 
+9. **` Add A Toy page will be a private route:`** 
     <br/>
 
     > Create an **Add A Toy** page where there will be a form having the following fields:
-    - Picture url of the toy,
+    - Picture URL of the toy,
     - Name,
-    - Sub-category, ( For example: if the website is based on Educational and learning toys, the sub-categories can be Math Toys, Language Toys and Science Toys.)
+    - Sub-category ( For example: if the website is based on Educational and learning toys, the sub-categories can be Math Toys, Language Toys, and Science Toys.)
     - Price, 
     - Rating, 
     - Detail description
 
 <br/>
 
-10. **`My Toys page will be private routes:`** If a user logs in, he/she will see the My Toys page where it will show all the toys information he/she has added from the Add A Toy page in a tabular form. Each row will have update and delete buttons. 
+10. **`My Toys page will be private routes:`** If a user logs in, they will see the My Toys page, which it will show all the toys information they have added from the Add A Toy page in a tabular form. Each row will have an update and delete button. 
     <br/>
 
-    - **Update Action** - If he/she clicks the `update` button, he/ she can update the Toy information (Picture, Name, Sub-category, Price, Rating, Detail description) <br/><br/>
-        > **Note:** Here, you can show the update form in a modal or in another route.
+    - **Update Action** - If they click the `update` button, they can update the Toy information (Picture, Name, Sub-category, Price, Rating, Detail description) <br/><br/>
+        > **Note:** you can show the update form in a modal or another route.
     
     <br/>
 
-    - **Delete Action** - If she/he clicks on the delete button, the Toy will be removed from the list. Before the delete ask for a delete confirmation.
+    - **Delete Action** - If they click the delete button, the Toy will be removed from the list. Before the delete, ask for a delete confirmation.
     <br/>
     <br/>
-        > **Note:** If a user logs in he/she will only see the toys he/she has added. The user cannot see the toys other users added.
+        > **Note:** If a user logs in they will only see the toys they have added. The user cannot see the toys other users added.
     <br/>
 
     **Bonus task: See the bonus point 4**
@@ -182,11 +182,11 @@ If possible, you can explore component libraries other than DaisyUI. Remember, a
 
 12. **`404 page:`** 
 
-    > Create a 404 page. Add any interesting jpg/ gif on the 404 page. **Do not add header & footer in this page.** Just add a jpg/ gif & a **Back to home** button. **Back to home** button will redirect the user to the home page.
+    > Create a 404 page. Add any interesting jpg/ gif on the 404 page. **Do not add header & footer on this page.** Just add a jpg/ gif & a **Back to home** button. The**Back to home** button will redirect the user to the home page.
 
 <br/>
 
-13. Use the Environment variable to hide the Firebase config keys and mongodb credentials. 
+13. Use the Environment variable to hide the Firebase config keys and Mongodb credentials. 
 
 <hr/>
 <br/>
@@ -197,29 +197,29 @@ If possible, you can explore component libraries other than DaisyUI. Remember, a
 
     - Minimum 18 meaningful git commits on the client-side repository.
     - Minimum 8 meaningful commits on the server-side repository.
-    - Create a readme for client-side and write about your project (at least 5 bullet points). **Do not forget to add your client side live link of your website here.**
+    - Create a readme for client-side and write about your project (at least 5 bullet points). ** Remember to add your client-side live link to your website here.**
 
 <br/>
 
-2. **Reload :** If you reload the protected/private routes (after login), this page will not redirect the user to the login page. Instead, it will keep the logged-in user on the protected route. 
+2. **Reload:** If you reload the protected/private routes (after login), this page will not redirect the user to the login page. Instead, it will keep the logged-in user on the protected route. 
 
 2. Make your website mobile & desktop responsive (tablet responsive is optional)
 
 <br/>
 
-4. Use the [AOS Package](https://www.npmjs.com/package/aos) in the home page. At least in one place in the home page. Using AOS in other pages is optional
+4. Use the [AOS Package](https://www.npmjs.com/package/aos) in the home page. At least in one place on the home page. Using AOS on other pages is optional.
 
 <br/>
 
-5. On **My Toys** page, you have to implement a sorting system where you will sort the toys in **descending** and **ascending** orders based on the **price**. (Explore mongodb sorting operation & implement it on backend). The design of the sorting system depends on you.
+5. On the **My Toys** page, you must implement a sorting system to sort the toys in **descending** and **ascending** orders based on the **price**. (Explore MongoDB sorting operation & implement it on the backend). The design of the sorting system depends on you.
 
 <br/>
 
-6. Give your website name. The website title will be changed according to the route you are clicking. Suppose, your website name is PHero. Then, on the **‘about’** route, your website title will be **‘PHero | About us’**.
+6. Give your website name. The website title will be changed according to the route you are clicking. Suppose your website name is PHero. Then, on the **‘about’** route, your website title will be **‘PHero | About us’**.
 
-7. add a spinner to the my toys page. 
+7. add a spinner to my toys page. 
 
-8. Make the component name, folder structure, route name meaningful. If needed add comments. 
+8. Make the component name, folder structure, and route name meaningful. If needed, add comments. 
 
 <br/>
 
@@ -228,17 +228,17 @@ If possible, you can explore component libraries other than DaisyUI. Remember, a
 
 ## **Optional (But Highly Recommended):**
 
-1. Implement JWT token in your routes.
+1. Implement a JWT token in your routes.
 
 <br/>
 
-2. Add a spinner when the data is in loading state. You can add a gif/jpg, use any packages or customize it using css.
+2. Add a spinner when the data is in a loading state. You can add a gif/jpg, use any package or customize it using CSS.
 
 <br/>
 
 3. **Interesting part:** 
 
-    > Each blog will contain a question, an answer and a pin icon. You can display them however you want. When a user clicks on a pin icon, the pin icon will become blue (or any dark color) and the pinned blog will be shown on the homepage. However, if a user clicks on the blog that is already pinned, the blog will be unpinned and that blog will not appear on the homepage. Make sure to make the pin icon white when the blog unpins.
+    > Each blog will contain a question, an answer, and a pin icon. You can display them however you want. When a user clicks on a pin icon, the pin icon will become blue (or any dark color), and the pinned blog will be shown on the homepage. However, if a user clicks on the already pinned blog, the blog will be unpinned, and that blog will not appear on the homepage. Make sure to make the pin icon white when the blog unpins.
     <br/>
     When a user is not logged in, the pin button is disabled.
 
@@ -256,7 +256,7 @@ If possible, you can explore component libraries other than DaisyUI. Remember, a
 
 ### **Additional information:**
 
-1. You can use a local image or host image anywhere or use pictures from the internet. And it's ok if you have the image url, but the image link doesn't work. 
+1. You can use a local or host image anywhere or use pictures from the internet. And it's ok if you have the image url, but the image link doesn't work. 
 2. You can use vanilla CSS or any CSS library (Bootstrap, tailwind) you want. If you wish, you can use both Bootstrap and react-bootstrap. Also, if you want, you can use any tailwind component library such as DaisyUI, etc.
 3. Try to host your site on Firebase (Netlify hosting will need some extra configurations)
 4. Host your server-side application on Vercel. If needed, you can host somewhere else as well.
@@ -290,4 +290,4 @@ If possible, you can explore component libraries other than DaisyUI. Remember, a
 <br/>
 
 ### No Pain, No Gain:
-`The best things of life are on the other side of the pain.` 
+`The most beautiful moments in life comes after going through hardships and challenges.` 
