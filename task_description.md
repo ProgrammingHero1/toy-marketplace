@@ -32,7 +32,7 @@ You can explore component libraries other than DaisyUI. Remember, a unique proje
 🚩: 0 [ If we have any update we will mention it here ] 
 <br/>
 
-## **Main Requirements:**
+##!#1589F0 **Main Requirements:** `#1589F0`
 1. Focus on making the website visually appealing.Ensure that.
     - Color contrast is pleasing to the eye.
     - The website does not have a `gobindo design`.
@@ -203,11 +203,12 @@ You can explore component libraries other than DaisyUI. Remember, a unique proje
 
 ## **Bonus Requirements**
 
+<div style="background-color: #00FF00">
 1. **Commits & readme:**
-
     - Minimum 18 meaningful git commits on the client-side repository.
     - Minimum 8 meaningful commits on the server-side repository.
-    - Create a readme for client-side and write about your project (at least 5 bullet points). ** Remember to add your client-side live link to your website here.**
+    - Create a readme for the client-side and write about your project (at least 5 bullet points). ** Remember to add your client-side live link to your website here.**
+</div>
 
 <br/>
 
