@@ -217,7 +217,7 @@ You can explore component libraries other than DaisyUI. Remember, a unique proje
 
 <br/>
 
-4. Use the [AOS Package](https://www.npmjs.com/package/aos) in the home page. At least in one place on the home page. Using AOS on other pages, is optional.
+4. Use the [AOS Package](https://www.npmjs.com/package/aos) on the home page, at least in one place. Using AOS on other pages is optional.
 
 <br/>
 
