@@ -32,7 +32,7 @@ You can explore component libraries other than DaisyUI. Remember, a unique proje
 🚩: 0 [ If we have any update we will mention it here ] 
 <br/>
 
-## $${\color{red}**Main** \space \color{lightblue}To \space \color{orange}**Requirements**}$$
+## **$${\color{red}Main  \space \color{orange}Requirements}$$**
 1. Focus on making the website visually appealing.Ensure that.
     - Color contrast is pleasing to the eye.
     - The website does not have a `gobindo design`.
