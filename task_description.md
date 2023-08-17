@@ -40,7 +40,7 @@ You can explore component libraries other than DaisyUI. Remember, a unique proje
     - If needed, customize the design of any component you are taking from any component library. (For example, you are using  Daisy UI & have taken a card component from Daisy, if needed, customize the styling of the card to make it reasonable rather than just copy & paste it.)
     <br/>
     <br/>
-    $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
+   
     > **Note:** Your website can not be related to your previous assignments' layout/ design or any practice project shown in the course modules or our conceptual sessions. Ex: You can't copy any design or similar functionality/ layout of
     - Dragon news
     - Espresso Emporium
