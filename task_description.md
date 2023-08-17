@@ -33,8 +33,8 @@ You can explore component libraries other than DaisyUI. Remember, a unique proje
 🚩: 0 [ If we have any update we will mention it here ] 
 <br/>
 
-## **$${\color{green}Main  \space \color{lightblue}Requirements}$$**
-$${\color{green} 1}$$. Focus on making the website visually appealing.Ensure that.
+## **$${\color{red}Main  \space \color{blue}Requirements}$$**
+1. Focus on making the website visually appealing.Ensure that.
     - Color contrast is pleasing to the eye.
     - The website does not have a `gobindo design`.
     - The website has proper alignment and space.
@@ -202,7 +202,7 @@ $${\color{green} 1}$$. Focus on making the website visually appealing.Ensure tha
 <hr/>
 <br/>
 
-## **Bonus Requirements**
+## **$${\color{red}Bonus  \space \color{orange}Requirements}$$**
 
 <div style="background-color: #00FF00">
 1. **Commits & readme:**
