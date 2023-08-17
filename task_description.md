@@ -33,7 +33,7 @@ You can explore component libraries other than DaisyUI. Remember, a unique proje
 <br/>
 
 ## **Main Requirements:**
-1. Focus on making the website visually appealing.Ensure that:
+1. Focus on making the website visually appealing.Ensure that.
     - Color contrast is pleasing to the eye.
     - The website does not have a `gobindo design`.
     - The website has proper alignment and space.
