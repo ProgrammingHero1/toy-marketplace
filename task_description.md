@@ -2,45 +2,46 @@
 
 A company is seeking a web developer who can create a simple full-stack Toy Marketplace website. You are required to focus on a specific toy category, such as-
 
-    - Toy Cars(sports car, truck, regular car, mini fire truck, mini police car, etc.)
-    - Action figure toys(marvel, avengers, star wars, transformers, etc.)
-    - Animal toys(teddy bear, horse, dinosaur, dogs, cat, unicorn, cows, etc.)
-    - Sports toys(miniature or plastic version of sports accessories) 
+    - Toy Cars (sports car, truck, regular car, mini fire truck, mini police car, etc.)
+    - Action figure toys (Marvel, Avengers, star wars, transformers, etc.)
+    - Animal toys (teddy bear, horse, dinosaur, dogs, cat, unicorn, cows, etc.)
+    - Sports toys (miniature or plastic version of sports accessories) 
     - Toy robots
-    - Dolls(baby dolls, barbie, American girl, etc)
+    - Dolls (baby dolls, barbie, American girl, etc)
     - Disney dolls (Disney princes, frozen dolls, animation characters, donald duck, etc.), 
     - Girls' makeup toy, 
     - Video game toys, 
     - Building and Construction Toys, 
-    - Educational and Learning Toys(science kits, math learning toys, engineering kits, engineering tools), 
+    - Educational and Learning Toys (science kits, math learning toys, engineering kits, engineering tools), 
     - Cooking Toys, 
     - Arts and Crafts Toys, 
-    - Musical Toys(miniature musical instruments), 
+    - Musical Toys (miniature musical instruments), 
     - Board Games and Puzzles, 
     - Electronic Toys, 
-    - Lego sets(lego city, lego star wars, lego architecture, lego cars), 
+    - Lego sets (lego city, lego star wars, lego architecture, lego cars), 
     - Sand castle building toys, etc. 
     - Any other types of toys
     
- If you select Disney dolls toys, your website will only showcase toys related to that particular types. Do not mix different types of toys in your website.
+ If you select Disney dolls toys, your website will only showcase toys related to that particular type. Do not mix different types of toys in your website.
 
-Make sure your website design is unique. Visit ThemeForest, Dribble, google, etc., to get some ideas.
+Make sure your website design is unique. Visit ThemeForest, Dribbble, google, etc., to get some ideas.
 
 You can explore component libraries other than DaisyUI. Remember, a unique project will add more value to your portfolio.
 <hr/>
 <br/>
+
 🚩: 0 [ If we have any update we will mention it here ] 
 <br/>
 
-## **Main Requirements**
-1. Focus on making the website visually appealing. Ensure that
-    - Color contrast is pleasing to the eye
-    - The website does not have a `gobindo design`
-    - The website has proper alignment and space
-    - If needed, customize the design of any component you are taking from any component library. (For example, you are using daisy ui & have taken a card component from Daisy, if needed, customize the styling of the card to make it reasonable rather than just copy & paste it.)
+## **$${\color{red}Main  \space \color{blue}Requirements}$$**
+1. Focus on making the website visually appealing.Ensure that.
+    - Color contrast is pleasing to the eye.
+    - The website does not have a `gobindo design`.
+    - The website has proper alignment and space.
+    - If needed, customize the design of any component you are taking from any component library. (For example, you are using  Daisy UI & have taken a card component from Daisy, if needed, customize the styling of the card to make it reasonable rather than just copy & paste it.)
     <br/>
     <br/>
-    
+   
     > **Note:** Your website can not be related to your previous assignments' layout/ design or any practice project shown in the course modules or our conceptual sessions. Ex: You can't copy any design or similar functionality/ layout of
     - Dragon news
     - Espresso Emporium
@@ -201,23 +202,24 @@ You can explore component libraries other than DaisyUI. Remember, a unique proje
 <hr/>
 <br/>
 
-## **Bonus Requirements**
+## **$${\color{red}Bonus  \space \color{orange}Requirements}$$**
 
+<div style="background-color: #00FF00">
 1. **Commits & readme:**
-
     - Minimum 18 meaningful git commits on the client-side repository.
     - Minimum 8 meaningful commits on the server-side repository.
-    - Create a readme for client-side and write about your project (at least 5 bullet points). ** Remember to add your client-side live link to your website here.**
+    - Create a readme for the client-side and write about your project (at least 5 bullet points). ** Remember to add your client-side live link to your website here.**
+</div>
 
 <br/>
 
 2. **Reload:** If you reload the protected/private routes (after login), this page will not redirect the user to the login page. Instead, it will keep the logged-in user on the protected route. 
 
-2. Make Home page of your website mobile & desktop responsive (tablet responsive is optional)
+2. Make the Home page of your website mobile & desktop responsive(tablet responsive is optional)
 
 <br/>
 
-4. Use the [AOS Package](https://www.npmjs.com/package/aos) in the home page. At least in one place on the home page. Using AOS on other pages is optional.
+4. Use the [AOS Package](https://www.npmjs.com/package/aos) on the home page, at least in one place. Using AOS on other pages is optional.
 
 <br/>
 
@@ -225,9 +227,9 @@ You can explore component libraries other than DaisyUI. Remember, a unique proje
 
 <br/>
 
-6. Give your website name. The website title will be changed according to the route you are clicking. Suppose your website name is PHero. Then, on the **‘about’** route, your website title will be **‘PHero | About us’**.
+6. Assign a name to your website. The website title will change according to the route you click. Suppose your website name is PHero. Then, on the **‘about’** route, your website title will be **‘PHero | About us’**.
 
-7.  Make the component name, folder structure, and route name meaningful. If needed, add comments. 
+7.  Ensure meaningful component names, folder structure, and route names. Add comments if needed. 
 
 <br/>
 
